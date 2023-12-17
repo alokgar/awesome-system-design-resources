@@ -3,7 +3,7 @@ This repository contains System Design resources which are useful to learn conce
 
 ## System Design Fundamentals
 
-- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) - Done
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
