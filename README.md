@@ -5,7 +5,7 @@ This repository contains System Design articles and videos which are useful duri
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) - Done
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01) - Done
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/) - Done
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
