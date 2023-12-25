@@ -8,7 +8,7 @@ This repository contains System Design articles and videos which are useful duri
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/) - Done
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/) - Done
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/) - Done
-- [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+- [ACID Transactions](https://redis.com/glossary/acid-transactions/) - Done
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
